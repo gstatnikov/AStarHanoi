@@ -225,5 +225,4 @@ for num_disks in test_cases:
             print_solution(solution)
     else:
         print("No solution found!")
-    
     print()
