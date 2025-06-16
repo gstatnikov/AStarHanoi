@@ -1,0 +1,1 @@
+This project implements an efficient A* search algorithm to solve the classic Tower of Hanoi puzzle for any number of disks and pegs. Unlike traditional recursive solutions, this approach treats the problem as a graph search, enabling intelligent state exploration through an admissible heuristic.
